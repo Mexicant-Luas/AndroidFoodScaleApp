@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Arduino Sensors\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\Arduino Sensors\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Arduino Weight\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AndroidStudioProjects\\Arduino Weight\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

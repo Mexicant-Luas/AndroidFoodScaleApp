@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9e94176951978f1fe7860a8b808fd5573be9319c">
+        <dex dex="D:\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0d9f80297fa258883ee4f63544a1b10ae94931a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_01afd16af15ac46808a4fd47a3c8677af06c54e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2b4156e55e5b6965190936b97600262e88a20c51">
+        <dex dex="D:\AndroidStudioProjects\Arduino Sensors\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4c7d18a4b16f50a2f3c146d152e779ccb86fbec8\classes.dex" />
+    </item>
+
+</items>
